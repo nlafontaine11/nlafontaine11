@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nic Lafontaine</h1>
-<h3 align="center">I'm a Software developer</h3>
+<h3 align="center">I'm a software developer who as passionate about building projects and exploring new technologies</h3>
 
 ## 🌐 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-lafontaine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nlafontaine11@gmail.com) 
